@@ -1,0 +1,61 @@
+# Personal Information
+basic_info:
+  # Your full name
+  first_name: Juan Pablo
+  last_name: Guerrero
+
+  # You have 1 paragraph to make a great impression, summarize your career.
+  summary:
+  Tecnólogo Médico, Mg. en Informática Médica. Tengo estudios tambiénn de Gestión del Cambio, Gestión de Proyectos y Análisis de Datos.
+  Tengo conocimientos en Excel y Power BI. Mis estudios en la Academia $Geeks me permitieron adentrarme en el desarrollo FullStack.
+  
+
+  # Your profile picture URL
+  # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+  avatar: https://randomuser.me/api/portraits/men/0.jpg
+
+  # Contact Information
+  email: jpgbonnet@gmail.com #optional
+  phone: #optional
+
+  #
+  # ******** IMPORTANT *******
+  # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+  github: jpgb-hub
+
+  twitter: #optional
+
+
+  # Interests or hobies
+  interests:
+    - item: Música
+
+    - item: Cine arte
+
+    - item: Running
+
+# Your previous education
+education:
+  - degree: desarrollador full-stack
+    academy: 4Geeks Academy
+    # optional
+    university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    time: may-2022 - jul-2022
+    details: |
+      Estuve en el Bootcamp 4geeks Academy, el cual me permitió  formalizar los conocimientos
+      que previamente tenía. En el aprendí tecnologias como JavaScript,
+      React, Bootstrap, Flux , Python, Sql, SqlAlchemy, Flask, Jwt, Jest y Habilidades como
+      el trabajo grupal con git. 
+
+experiences:
+ 
+    company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    details: 
+    To-Do List: Aplicacion para apuntar los quehaceres y eliminarlos cuando sean completados.
+      Tecnologias: Html, Css, React con Eventos, Hooks y Fetch.
+
+    TetArte: Actualización pagina web ONG que fomenta la lacatancia materna.  
+      Tecnologias: React, Css, Python, Flask, Git.
+
+
+ 
